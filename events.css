@@ -1,0 +1,31 @@
+:root {
+
+--cor1: #F8D8DD;
+--cor2: #F8B4BF;
+--cor3: #FB73A3;
+--cor4: #F6A7BD;
+--cor5: #E37A85;
+
+} 
+
+
+body{ 
+
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+} 
+
+
+
+#mouse{
+ height: 150px; 
+ width: 150px; 
+ background-color: black;
+ display: flex;
+ align-items: center;
+ text-align:left;
+ border-radius: 10px; 
+ 
+ color: aliceblue;
+ padding: 20px;
+
+} 
